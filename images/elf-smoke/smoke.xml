@@ -1,0 +1,21 @@
+<TextureAtlas imagePath="person.png">
+	<SubTexture name="01.png" x="82" y="328" width="80" height="80"/>
+	<SubTexture name="02.png" x="246" y="164" width="80" height="80"/>
+	<SubTexture name="03.png" x="246" y="82" width="80" height="80"/>
+	<SubTexture name="04.png" x="246" y="0" width="80" height="80"/>
+	<SubTexture name="05.png" x="164" y="328" width="80" height="80"/>
+	<SubTexture name="06.png" x="164" y="246" width="80" height="80"/>
+	<SubTexture name="07.png" x="164" y="164" width="80" height="80"/>
+	<SubTexture name="08.png" x="164" y="82" width="80" height="80"/>
+	<SubTexture name="09.png" x="164" y="0" width="80" height="80"/>
+	<SubTexture name="10.png" x="246" y="246" width="80" height="80"/>
+	<SubTexture name="11.png" x="82" y="246" width="80" height="80"/>
+	<SubTexture name="12.png" x="82" y="164" width="80" height="80"/>
+	<SubTexture name="13.png" x="82" y="82" width="80" height="80"/>
+	<SubTexture name="14.png" x="82" y="0" width="80" height="80"/>
+	<SubTexture name="15.png" x="0" y="328" width="80" height="80"/>
+	<SubTexture name="16.png" x="0" y="246" width="80" height="80"/>
+	<SubTexture name="17.png" x="0" y="164" width="80" height="80"/>
+	<SubTexture name="18.png" x="0" y="82" width="80" height="80"/>
+	<SubTexture name="19.png" x="0" y="0" width="80" height="80"/>
+</TextureAtlas>
